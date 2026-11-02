@@ -1,5 +1,4 @@
 -- DBMS Assignment 1
--- MySQL / Table Creation, Constraints and Foreign Keys
 
 -- Q1
 DROP TABLE IF EXISTS countries;
