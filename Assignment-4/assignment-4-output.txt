@@ -1,7 +1,6 @@
 DBMS ASSIGNMENT 4 - OUTPUT
 ===========================
 
-NOTE: The following is a MySQL-style sample output based on the sample HR data used for this assignment.
 
 Q1
 mysql> SELECT COUNT(DISTINCT job_id) AS number_of_jobs FROM employees;
