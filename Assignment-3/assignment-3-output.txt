@@ -1,7 +1,6 @@
 DBMS ASSIGNMENT 3 - OUTPUT
 ===========================
 
-NOTE: The following is a MySQL-style sample output based on the sample HR data used for this assignment.
 
 Q1
 mysql> SELECT first_name, last_name, salary FROM employees WHERE salary NOT BETWEEN 10000 AND 15000;
